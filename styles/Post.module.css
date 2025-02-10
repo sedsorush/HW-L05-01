@@ -1,0 +1,24 @@
+.postPage {
+    display: flex;
+    flex-direction: column;
+}
+
+.postOutline {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+.postContainer {
+    width: 95%;
+    height: 600px;
+    background-color: #EF9A9A;
+    border-radius: 8px;
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
